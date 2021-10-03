@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    dataBinding {
+    viewBinding {
         enabled = true
     }
 
